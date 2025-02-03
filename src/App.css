@@ -141,6 +141,10 @@
         font-size: 25px;
     }
 
+    .child-3 ul {
+        width: 90%;
+    }
+
     .child-3 ul li {
         width: 100%;
     }
