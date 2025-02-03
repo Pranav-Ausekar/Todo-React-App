@@ -140,4 +140,16 @@
     .parent h2 {
         font-size: 25px;
     }
+
+    .child-3 ul li {
+        width: 100%;
+    }
+
+    .child-2 input {
+        width: 60%;
+    }
+
+    .child-2 button {
+        width: 25%;
+    }
 }
