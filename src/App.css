@@ -72,7 +72,7 @@
 .child-3 ul {
     /* background-color: white; */
     list-style-type: none;
-    width: 50%;
+    width: 100%;
     color: black;
     padding: 8px;
 
@@ -88,7 +88,7 @@
     border-radius: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    width: 70%;
+    width: 50%;
 
     display: flex;
     align-items: center;
@@ -118,7 +118,11 @@
     }
 
     .child-3 ul {
-        width: 70%;
+        width: 100%;
+    }
+
+    .child-3 ul li {
+        width: 100%;
     }
 }
 
@@ -131,8 +135,8 @@
         font-size: 15px;
     }
 
-    .child-3 ul {
-        width: 80%;
+    .child-3 ul li {
+        width: 100%;
     }
 }
 
