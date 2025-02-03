@@ -58,7 +58,7 @@
 }
 
 
-/* display todos list  */
+/* .                            display todos list  */
 
 .child-3 {
     width: 100%;
@@ -104,6 +104,38 @@
     border: none;
     padding: 7px;
 }
+
+
+/* .                                   toggle button css  */
+
+.all-icons {
+    display: flex;
+    /* gap: 5px; */
+}
+
+.toggle-btn {
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+    opacity: 0.6;
+    transition: all 0.3s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 /* media queries  */
 
