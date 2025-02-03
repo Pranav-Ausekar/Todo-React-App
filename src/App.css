@@ -153,3 +153,9 @@
         width: 25%;
     }
 }
+
+@media (max-width : 321px) {
+    .child-3 ul {
+        width: 90%;
+    }
+}
